@@ -8,7 +8,7 @@
  */
 #include "main.h"
 
-#define VERSION     "libcec-daemon v0.9"
+#define VERSION     "libcec-daemon-dreambox v0.9"
 
 #define CEC_NAME    "DREAMBOX"
 #define UINPUT_NAME "libcec-daemon"
