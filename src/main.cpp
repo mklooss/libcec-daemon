@@ -10,7 +10,7 @@
 
 #define VERSION     "libcec-daemon v0.9"
 
-#define CEC_NAME    "linux PC"
+#define CEC_NAME    "DREAMBOX"
 #define UINPUT_NAME "libcec-daemon"
 
 #include <algorithm>
